@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Jacob Voyles Portfolio
 
-You can use the [editor on GitHub](https://github.com/jtvkw2/Voyles-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Project 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Real or Fake Tweets
 
-### Markdown
+Twitter has become an important communication channel in times of emergency.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This Project aims to detect real emergencies from tweets based on key words and hashtags.
 
-```markdown
-Syntax highlighted code block
+![Image](__results___10_0.png)
 
-# Header 1
-## Header 2
-### Header 3
+Link to project [Github](https://github.com/jtvkw2/Tweet-Sentiment-Analysis)
+Link to project [Kaggle](https://www.kaggle.com/jacobvoyles/real-or-fake-tweet-machine-learning)
 
-- Bulleted
-- List
+## Project 2
 
-1. Numbered
-2. List
+### Housing Price Analysis
 
-**Bold** and _Italic_ and `Code` text
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, I used this dataset to predict the final price of each home.
 
-[Link](url) and ![Image](src)
-```
+![Image](__results___24_1.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jtvkw2/Voyles-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Link to project [Github](https://github.com/jtvkw2/House-Price-Analysis)
+Link to project [Kaggle](https://www.kaggle.com/jacobvoyles/house-prices-analysis)
